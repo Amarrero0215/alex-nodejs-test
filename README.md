@@ -19,6 +19,11 @@
   3) Install dependencies, make sure Node.js and npm are installed, then run: npm install 
   4) Run App in terminal: node index.js
 
+  ## Walkthrough Video
+  Here is a walkthrough demonstrating the functionality of the README generator:
+
+  ![Walkthrough Video](./assets/Project-Walkthrough.mp4)
+
   ## Usage
   1) Run the Application: using, node index.js 
   2) Answer the Prompts 
