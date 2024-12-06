@@ -25,7 +25,7 @@
   ## Walkthrough Video
   Here is a walkthrough demonstrating the functionality of the README generator:
 
-  ![Walkthrough Video](./assets/Project-Walkthrough.mp4)
+  [Watch the Walkthrough Video](https://drive.google.com/file/d/1AMm-CxMsWQumIVbICGk2KDNsguUb99Iy/view?usp=sharing)
 
   ## Usage
   1) Run the Application: using, node index.js 
